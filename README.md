@@ -63,7 +63,7 @@ A brief description of what this project entailed, key components, and any signi
   - **Triangle:** Drawn using two characters with random placement determined by a seed value. Users provide the size of the triangle and a random seed for the pattern.
 - Includes input validation to ensure valid values for characters and dimensions.
 
-**Grade:** [Grade Received]
+**Grade:** 100/100
 
 ---
 
