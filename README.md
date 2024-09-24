@@ -67,11 +67,13 @@ A brief description of what this project entailed, key components, and any signi
 
 ---
 
-### Exercise 2: **Exercise Title**
+### Exercise 2: **Text Manipulation**
 **Description:**  
-A brief description of the exercise, including objectives and outcomes.
-
-**Grade:** [Grade Received]
+- Implemented two functions in C: `remove_spaces` and `center`, aimed at practicing string and pointer manipulation.
+  - **remove_spaces**: This function removes leading and trailing spaces from a given string and places the cleaned string in the result parameter.
+  - **center**: This function centers a given string within a specified width by calculating the required number of spaces on both sides.
+- This implementation shows rigorous specifications regarding input validation, string handling, and proper null-termination, ensuring the code adheres to good programming style. 
+**Grade:** 100/100
 
 ---
 
