@@ -15,9 +15,10 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 
 ---
 
-### Project 2: **Project Title**
+### Project 2: **Document Manager**
 **Description:**  
-A brief description of what this project entailed, key components, and any significant achievements or challenges faced.
+- Developed a C library for managing a document structure, allowing users to create, modify, and print documents composed of multiple paragraphs and lines.
+- Implemented essential functionalities, including initializing documents, adding/removing paragraphs and lines, loading content from an array, and replacing/highlighting/removing text within the document.
 
 **Grade:** [Grade Received]
 
