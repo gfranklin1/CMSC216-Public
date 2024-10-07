@@ -21,7 +21,7 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 - Implemented essential functionalities, including initializing documents, adding/removing paragraphs and lines, loading content from an array, and replacing/highlighting/removing text within the document.
 
 **Grade:** 95/100
-- Passed 21/22 tests
+- Passed 21/22 tests.
 
 ---
 
