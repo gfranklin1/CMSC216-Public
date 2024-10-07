@@ -20,7 +20,8 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 - Developed a C library for managing a document structure, allowing users to create, modify, and print documents composed of multiple paragraphs and lines.
 - Implemented essential functionalities, including initializing documents, adding/removing paragraphs and lines, loading content from an array, and replacing/highlighting/removing text within the document.
 
-**Grade:** [Grade Received]
+**Grade:** 95/100
+- Passed 21/22 tests
 
 ---
 
