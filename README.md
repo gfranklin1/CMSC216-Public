@@ -11,7 +11,7 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 - Handles dropping the lowest scores based on user specifications.
 - Can optionally provide statistical information about the grades, such as the mean and standard deviation. 
 
-**Grade:** [Grade Received]
+**Grade:** 100/100
 
 ---
 
