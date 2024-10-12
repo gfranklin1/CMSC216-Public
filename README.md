@@ -25,9 +25,11 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 
 ---
 
-### Project 3: **Project Title**
+### Project 3: **User Interface**
 **Description:**  
-A brief description of what this project entailed, key components, and any significant achievements or challenges faced.
+- Developed a text-based user interface in C for the document management system implemented in Project 2.
+- Allows users to interact with documents by adding paragraphs and lines, removing lines, and highlighting or replacing text through command-line input.
+- Implemented additional functionalities like loading and saving documents from/to files, appending lines, and resetting documents to their initial state.
 
 **Grade:** [Grade Received]
 
