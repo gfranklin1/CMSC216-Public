@@ -76,16 +76,22 @@ A brief description of what this project entailed, key components, and any signi
 - Implemented two functions in C: `remove_spaces` and `center`, aimed at practicing string and pointer manipulation.
   - **remove_spaces**: This function removes leading and trailing spaces from a given string and places the cleaned string in the result parameter.
   - **center**: This function centers a given string within a specified width by calculating the required number of spaces on both sides.
-- This implementation shows rigorous specifications regarding input validation, string handling, and proper null-termination, ensuring the code adheres to good programming style. 
+- This implementation shows rigorous specifications regarding input validation, string handling, and proper null-termination, ensuring the code adheres to good programming style.
+
 **Grade:** 100/100
 
 ---
 
-### Exercise 3: **Exercise Title**
+### Exercise 3: **Photo Album**
 **Description:**  
-A brief description of the exercise, including objectives and outcomes.
-
-**Grade:** [Grade Received]
+- Implemented a dynamic photo album application in C, practicing dynamic memory allocation.
+- The application supports functionalities such as:
+  - Creating and printing photos with descriptions.
+  - Initializing and printing albums.
+  - Adding photos to an album while ensuring memory management best practices are followed.
+- Focused on ensuring proper memory allocation and deallocation for the photo and album structures.
+  
+**Grade:** 100/100
 
 ---
 
