@@ -31,7 +31,8 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 - Allows users to interact with documents by adding paragraphs and lines, removing lines, and highlighting or replacing text through command-line input.
 - Implemented additional functionalities like loading and saving documents from/to files, appending lines, and resetting documents to their initial state.
 
-**Grade:** [Grade Received]
+**Grade:** 96/100
+- Passed 32/34 tests.
 
 ---
 
