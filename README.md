@@ -36,9 +36,13 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 
 ---
 
-### Project 4: **Project Title**
+### Project 4: **Calendar**
 **Description:**  
-A brief description of what this project entailed, key components, and any significant achievements or challenges faced.
+- Implemented a calendar application in C using dynamic memory allocation, linked lists, and function pointers.
+- The application supports functionalities such as:
+  - Adding, removing, and listing events for specific dates.
+  - Dynamic memory management to handle varying numbers of events efficiently.
+- Focused on developing robust data structures for storing calendar events and ensuring proper memory allocation and deallocation.
 
 **Grade:** [Grade Received]
 
