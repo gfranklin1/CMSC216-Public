@@ -100,11 +100,16 @@ A brief description of what this project entailed, key components, and any signi
 
 ---
 
-### Exercise 4: **Exercise Title**
+### Exercise 4: **AVR Assembly Basics**
 **Description:**  
-A brief description of the exercise, including objectives and outcomes.
+- Implemented several assembly functions to practice basic operations and familiarize with assembly language syntax and calling conventions.
+- Functions implemented:
+  - **Five**: Returns the constant value `5` as a `uint16_t`.
+  - **Max**: Returns the greater of two `uint8_t` values passed as arguments.
+  - **Strlen**: Computes the length of a string (given as a pointer) and returns it as a `uint16_t`.
+- Focused on using registers directly, handling loads and stores, and performing branching and looping operations.
 
-**Grade:** [Grade Received]
+**Grade:** 100/100
 
 ---
 
