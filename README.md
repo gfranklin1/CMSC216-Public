@@ -48,9 +48,16 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 
 ---
 
-### Project 5: **Project Title**
+### Project 5: **Assembly Language Programming**
 **Description:**  
-A brief description of what this project entailed, key components, and any significant achievements or challenges faced.
+- Developed AVR assembly routines to mirror the behavior of provided C functions.
+- Implemented the following routines:
+  - **Palindrome Check**: Verified if a string is the same forward and backward using pointer-based memory access.
+  - **Fibonacci Calculation**: Recursively computed the nth Fibonacci number.
+  - **Integer Square Root**: Calculated square roots using a bitwise algorithm with logical shift instructions.
+  - **Reverse Prefix Sum**: Transformed an array recursively by adding each element to the sum of subsequent elements.
+- Focused on proper register usage, following callee-save and caller-save conventions.
+- Ensured code clarity with extensive comments and clean formatting.
 
 **Grade:** [Grade Received]
 
