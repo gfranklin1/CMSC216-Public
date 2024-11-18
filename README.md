@@ -44,7 +44,8 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
   - Dynamic memory management to handle varying numbers of events efficiently.
 - Focused on developing robust data structures for storing calendar events and ensuring proper memory allocation and deallocation.
 
-**Grade:** [Grade Received]
+**Grade:** 95/100
+- Passed every test, but lost 5 points for code duplication.
 
 ---
 
