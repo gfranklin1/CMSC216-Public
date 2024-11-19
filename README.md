@@ -121,11 +121,18 @@ A brief description of what this project entailed, key components, and any signi
 
 ---
 
-### Exercise 5: **Exercise Title**
+### Exercise 5: **Shell Jr ("Shellito")**
 **Description:**  
-A brief description of the exercise, including objectives and outcomes.
+- Implemented a basic shell program in C.
+- Supports built-in commands and Linux commands with `fork()` and `execvp()`.
+- Key features:
+  - **Build-in Commands**
+    - `exit`: Exit the shell.
+    - `cd`: Change the current directory.
+  - **Linux Commands**
+    - Executes commands such as `pwd`, and `ls` by forking a child process.
 
-**Grade:** [Grade Received]
+**Grade:** 100/100
 
 ---
 
