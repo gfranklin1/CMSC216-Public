@@ -136,11 +136,14 @@ A brief description of what this project entailed, key components, and any signi
 
 ---
 
-### Exercise 6: **Exercise Title**
+### Exercise 6: **Threads**
 **Description:**  
-A brief description of the exercise, including objectives and outcomes.
-
-**Grade:** [Grade Received]
+- Wrote a multithreaded C program to compute the `maximum value` and the `sum` of array elements.
+- Used `POSIX threads (pthread)` to process array segments in parallel.
+- Employed `mutex locks` to safely update shared variables (global sum and maximum).
+- Measured and reported user time, system time, and wall time for performance profiling.
+  
+**Grade:** 100/100
 
 ---
 
