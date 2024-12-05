@@ -60,15 +60,21 @@ Welcome to my repository for ```CMSC216: Introduction to Computer Systems``` at 
 - Focused on proper register usage, following callee-save and caller-save conventions.
 - Ensured code clarity with extensive comments and clean formatting.
 
-**Grade:** [Grade Received]
+**Grade:** 100/100
 
 ---
 
-### Project 6: **Project Title**
+### Project 6: **Shell ("When Shellito Grows Up")**
 **Description:**  
-A brief description of what this project entailed, key components, and any significant achievements or challenges faced.
+- Developed a shell program in C that mimics basic linux shell functionality.
+- The shell implementation supports:
+  - Basic commands and arguments/flags (e.g. `ls -a`, `cd`, `exit`)
+  - Boolean operations and command chaining (`&&`, `|`)
+  - Input/output redirection (`<`, `>`)
+  - Subshell execution (using `(...)`)
+- Implemented `fork()` and `evecvp()` calls to execute external commands and manage child processes. This allows the shell to spawn new processes for each command, handling them efficiently. 
 
-**Grade:** [Grade Received]
+**Grade:** 100/100
 
 ---
 
